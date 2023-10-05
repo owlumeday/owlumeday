@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @owlumeday
-- 👀 I’m interested in Genomics data science
-- 🌱 I’m currently learning how to make sense of genomic data
-- 💞️ I’m looking to collaborate on Genomics project
+- 👀 I’m interested in using simulation tools to manage genetic diversity
+- 🌱 I’m currently learning how to program in Julia
+- 💞️ I’m looking to collaborate on Julia simulation projects
 - 📫 How to reach me olumideonabanjo01@gmail.com
 
 <!---
