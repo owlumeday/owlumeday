@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @owlumeday
-- 👀 I’m interested in using simulation tools to manage genetic diversity
+- 👀 I’m working on developing simulation tools to manage genetic diversity
 - 🌱 I’m currently learning Julia Programming Language
 - 💞️ I’m looking to collaborate on Genetic Simulation Projects
 - 📫 How to reach me olumideonabanjo01@gmail.com
